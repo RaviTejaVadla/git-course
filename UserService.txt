@@ -1,2 +1,4 @@
 get the user data...!
 add usre datagit 
+
+Add Avatrhar code 
